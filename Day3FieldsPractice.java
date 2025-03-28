@@ -18,7 +18,7 @@ public class Day3FieldsPractice {
 	}
 	
 	public static void testCase1() {
-		//Handling Static Dropdowns
+		//Handling Dropdowns
 		
 		//Step 1: Invoke browser
 		WebDriver driver = new ChromeDriver();
